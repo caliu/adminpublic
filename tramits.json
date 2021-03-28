@@ -1,0 +1,51 @@
+[
+    {
+        "organisme" : "gencat",
+        "departament" : "treball i afers socials",
+        "tràmit" : "família nombrosa",
+        "tecnologies" : ["XFA"],
+        "comentaris" : ""
+    },
+    {
+        "organisme" : "gencat",
+        "departament" : "justícia",
+        "tràmit" : "*",
+        "tecnologies" : ["XFA"],
+        "comentaris" : ""
+    },
+    {
+        "organisme" : "gencat",
+        "departament" : "interior",
+        "tràmit" : "comunicació de manifestacions o concentracions",
+        "tecnologies" : ["XFA"],
+        "comentaris" : ""
+    },
+    {
+        "organisme" : "gencat",
+        "departament" : "interior",
+        "tràmit" : "comunicació de manifestacions o concentracions",
+        "tecnologies" : ["XFA"],
+        "comentaris" : "abans era un formulari web"
+    },
+    {
+        "organisme" : "gencat",
+        "departament" : "AGAUR",
+        "tràmit" : "sol·licitud de beques (equitat, mobilitat, etc.)",
+        "tecnologies" : ["XFA"],
+        "comentaris" : ""
+    },
+    {
+        "organisme" : "gencat",
+        "departament" : "AGAUR",
+        "tràmit" : "modificació de la unitat familiar de la beca equitat",
+        "tecnologies" : [".doc"],
+        "comentaris" : ""
+    },
+    {
+        "organisme" : "AQU",
+        "departament" : "",
+        "tràmit" : "acreditació de professorat universitari",
+        "tecnologies" : [".doc", "XFA"],
+        "comentaris" : "s'ha d'omplir el CV amb una plantilla de word. El tràmit és amb XFA."
+    }
+]
